@@ -181,7 +181,6 @@ lspconfig.html.setup {
   capabilities = capabilities
 }
 
-
 -- set vim options just before start
 now(function()
 
